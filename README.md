@@ -178,9 +178,7 @@ No known bugs at this time.
 
 ## Authors
 
-Kalab Sisay - [Github](https://github.com/KalabSisaySE) / [Linkedin](https://www.linkedin.com/in/kalab-sisay-65112b234/)
-
-Ermias Bahru - [Github](https://github.com/ermiasbahru) / [Twitter](https://twitter.com/ermias_bahru)
+Kidus Feleke - [Github](https://github.com/wiziye)
 
 Fourth part of Airbnb
 
